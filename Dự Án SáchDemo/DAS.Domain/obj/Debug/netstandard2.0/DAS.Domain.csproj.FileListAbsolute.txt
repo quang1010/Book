@@ -16,3 +16,12 @@ C:\Users\nguye\Desktop\Dự Án SáchDemo\DAS.Domain\obj\Debug\netstandard2.0\DA
 C:\Users\nguye\Desktop\Dự Án SáchDemo\DAS.Domain\obj\Debug\netstandard2.0\DAS.Domain.AssemblyInfo.cs
 C:\Users\nguye\Desktop\Dự Án SáchDemo\DAS.Domain\obj\Debug\netstandard2.0\DAS.Domain.dll
 C:\Users\nguye\Desktop\Dự Án SáchDemo\DAS.Domain\obj\Debug\netstandard2.0\DAS.Domain.pdb
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.Domain\bin\Debug\netstandard2.0\DAS.Domain.deps.json
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.Domain\bin\Debug\netstandard2.0\DAS.Domain.dll
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.Domain\bin\Debug\netstandard2.0\DAS.Domain.pdb
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.Domain\obj\Debug\netstandard2.0\DAS.Domain.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.Domain\obj\Debug\netstandard2.0\DAS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.Domain\obj\Debug\netstandard2.0\DAS.Domain.AssemblyInfoInputs.cache
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.Domain\obj\Debug\netstandard2.0\DAS.Domain.AssemblyInfo.cs
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.Domain\obj\Debug\netstandard2.0\DAS.Domain.dll
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.Domain\obj\Debug\netstandard2.0\DAS.Domain.pdb

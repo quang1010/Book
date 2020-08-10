@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZsyT8a8YsTEhmnR0CbL8gd/3xSOuMRslowDAS9NXo2SyIu+WD3OuI8zqtPtgxgOy61rLzhEFCysOT4WFwtM42g==",
+  "dgSpecHash": "OpMchOqG8dbW3J/KBAL83W5Uzu8YMQivW5JxpkQqYQz5/pvBtqS724y9cijsaXNqnhvb3qUqRBlm0zeVAHe3CQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nguye\\Desktop\\Dự Án SáchDemo\\DAS.BAL\\DAS.BAL.csproj",
+  "projectFilePath": "C:\\Users\\nguye\\Desktop\\Book\\Dự Án SáchDemo\\DAS.BAL\\DAS.BAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

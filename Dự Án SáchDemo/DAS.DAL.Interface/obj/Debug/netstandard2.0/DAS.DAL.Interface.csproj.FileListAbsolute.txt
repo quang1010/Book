@@ -22,3 +22,15 @@ C:\Users\nguye\Desktop\Dự Án SáchDemo\DAS.DAL.Interface\obj\Debug\netstandar
 C:\Users\nguye\Desktop\Dự Án SáchDemo\DAS.DAL.Interface\obj\Debug\netstandard2.0\DAS.DAL.Interface.csproj.CopyComplete
 C:\Users\nguye\Desktop\Dự Án SáchDemo\DAS.DAL.Interface\obj\Debug\netstandard2.0\DAS.DAL.Interface.dll
 C:\Users\nguye\Desktop\Dự Án SáchDemo\DAS.DAL.Interface\obj\Debug\netstandard2.0\DAS.DAL.Interface.pdb
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.DAL.Interface\bin\Debug\netstandard2.0\DAS.DAL.Interface.deps.json
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.DAL.Interface\bin\Debug\netstandard2.0\DAS.DAL.Interface.dll
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.DAL.Interface\bin\Debug\netstandard2.0\DAS.DAL.Interface.pdb
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.DAL.Interface\bin\Debug\netstandard2.0\DAS.Domain.dll
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.DAL.Interface\bin\Debug\netstandard2.0\DAS.Domain.pdb
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.DAL.Interface\obj\Debug\netstandard2.0\DAS.DAL.Interface.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.DAL.Interface\obj\Debug\netstandard2.0\DAS.DAL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.DAL.Interface\obj\Debug\netstandard2.0\DAS.DAL.Interface.AssemblyInfoInputs.cache
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.DAL.Interface\obj\Debug\netstandard2.0\DAS.DAL.Interface.AssemblyInfo.cs
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.DAL.Interface\obj\Debug\netstandard2.0\DAS.DAL.Interface.csproj.CopyComplete
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.DAL.Interface\obj\Debug\netstandard2.0\DAS.DAL.Interface.dll
+C:\Users\nguye\Desktop\Book\Dự Án SáchDemo\DAS.DAL.Interface\obj\Debug\netstandard2.0\DAS.DAL.Interface.pdb

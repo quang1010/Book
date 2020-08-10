@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZDb3I7gEEn4WfA2Hvyxp0ywwODfjdjMNAQzr+jt+2JYOKOnHntRCM5ha0zj5sTHMP6gOsqv1tmURp6RwS2W6Tg==",
+  "dgSpecHash": "TWdhbo9drmxzeVlnJ/PRtAWVNMy7MrT5G5+/ya2hwPBbSuyevtYcDsy+M8STpvpoVk9WbV7yEUDK4D2fzSyHyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nguye\\Desktop\\Dự Án SáchDemo\\DAS.DAL.Interface\\DAS.DAL.Interface.csproj",
+  "projectFilePath": "C:\\Users\\nguye\\Desktop\\Book\\Dự Án SáchDemo\\DAS.DAL.Interface\\DAS.DAL.Interface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

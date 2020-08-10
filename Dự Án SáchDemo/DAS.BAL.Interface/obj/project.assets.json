@@ -321,11 +321,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nguye\\Desktop\\Dự Án SáchDemo\\DAS.BAL.Interface\\DAS.BAL.Interface.csproj",
+      "projectUniqueName": "C:\\Users\\nguye\\Desktop\\Book\\Dự Án SáchDemo\\DAS.BAL.Interface\\DAS.BAL.Interface.csproj",
       "projectName": "DAS.BAL.Interface",
-      "projectPath": "C:\\Users\\nguye\\Desktop\\Dự Án SáchDemo\\DAS.BAL.Interface\\DAS.BAL.Interface.csproj",
+      "projectPath": "C:\\Users\\nguye\\Desktop\\Book\\Dự Án SáchDemo\\DAS.BAL.Interface\\DAS.BAL.Interface.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nguye\\Desktop\\Dự Án SáchDemo\\DAS.BAL.Interface\\obj\\",
+      "outputPath": "C:\\Users\\nguye\\Desktop\\Book\\Dự Án SáchDemo\\DAS.BAL.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -341,11 +341,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\nguye\\Desktop\\Dự Án SáchDemo\\DAS.DAL.Interface\\DAS.DAL.Interface.csproj": {
-              "projectPath": "C:\\Users\\nguye\\Desktop\\Dự Án SáchDemo\\DAS.DAL.Interface\\DAS.DAL.Interface.csproj"
+            "C:\\Users\\nguye\\Desktop\\Book\\Dự Án SáchDemo\\DAS.DAL.Interface\\DAS.DAL.Interface.csproj": {
+              "projectPath": "C:\\Users\\nguye\\Desktop\\Book\\Dự Án SáchDemo\\DAS.DAL.Interface\\DAS.DAL.Interface.csproj"
             },
-            "C:\\Users\\nguye\\Desktop\\Dự Án SáchDemo\\DAS.Domain\\DAS.Domain.csproj": {
-              "projectPath": "C:\\Users\\nguye\\Desktop\\Dự Án SáchDemo\\DAS.Domain\\DAS.Domain.csproj"
+            "C:\\Users\\nguye\\Desktop\\Book\\Dự Án SáchDemo\\DAS.Domain\\DAS.Domain.csproj": {
+              "projectPath": "C:\\Users\\nguye\\Desktop\\Book\\Dự Án SáchDemo\\DAS.Domain\\DAS.Domain.csproj"
             }
           }
         }

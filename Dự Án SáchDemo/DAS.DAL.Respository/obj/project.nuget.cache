@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hSL/ycvHalVXJpxYB4O2dB919ggITkBYE9BOEFtDJAOncTBkEGaPPAB7H6GeF/vMtu3+dNaUHwcQKeERXuLZuQ==",
+  "dgSpecHash": "yU8torH/2JnOaxA/v9MWgivDAuShBBMeyWEzssTo7HiuChJjDdW2pqksfqMJ90oiH35/dB1n1XJ8S8Mg6hLCnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nguye\\Desktop\\Dự Án SáchDemo\\DAS.DAL.Respository\\DAS.DAL.csproj",
+  "projectFilePath": "C:\\Users\\nguye\\Desktop\\Book\\Dự Án SáchDemo\\DAS.DAL.Respository\\DAS.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nguye\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
